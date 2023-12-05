@@ -11,29 +11,11 @@
 	<atom:link href="https://joaotonhon.github.io/cupcakeshop/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://joaotonhon.github.io/cupcakeshop</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 Nov 2023 17:45:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Dec 2023 21:34:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
-	<item>
-		<title>
-		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>https://joaotonhon.github.io/cupcakeshop/2023/11/29/ola-mundo/#comment-1</link>
-
-		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
-		<pubDate>Wed, 29 Nov 2023 17:45:00 +0000</pubDate>
-		<guid isPermaLink="false">https://joaotonhon.github.io/cupcakeshop/?p=1#comment-1</guid>
-
-					<description><![CDATA[Oi, isto é um comentário.
-Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
-Os avatares dos comentaristas vêm do &lt;a href=&quot;https://br.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Oi, isto é um comentário.<br />
-Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.<br />
-Os avatares dos comentaristas vêm do <a href="https://br.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

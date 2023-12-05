@@ -12,32 +12,12 @@
 	<atom:link href="https://joaotonhon.github.io/cupcakeshop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://joaotonhon.github.io/cupcakeshop</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 Nov 2023 17:45:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Dec 2023 21:34:05 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
-	<item>
-		<title>Olá, mundo!</title>
-		<link>https://joaotonhon.github.io/cupcakeshop/2023/11/29/ola-mundo/</link>
-					<comments>https://joaotonhon.github.io/cupcakeshop/2023/11/29/ola-mundo/#comments</comments>
-		
-		<dc:creator><![CDATA[jtonhon]]></dc:creator>
-		<pubDate>Wed, 29 Nov 2023 17:45:00 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://joaotonhon.github.io/cupcakeshop/?p=1</guid>
-
-					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
-										<content:encoded><![CDATA[
-<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://joaotonhon.github.io/cupcakeshop/2023/11/29/ola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
